@@ -1,5 +1,5 @@
-a=int(input(int))
-b=int(input(int))
+a=int(input())
+b=int(input())
 c=a+b
 if c%2==0:
     print("even")
